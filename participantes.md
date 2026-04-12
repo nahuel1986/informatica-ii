@@ -19,3 +19,4 @@ Usuarios de GitHub de los participantes de Informática II.
 - mjbustos182
 - KarenFlorenciaAbigailGatica 
 - tcatinello
+- DaianaMedoneAcosta
