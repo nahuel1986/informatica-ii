@@ -24,3 +24,4 @@ Usuarios de GitHub de los participantes de Informática II.
 - bcrrica
 - lucascerbino-sudo
 - Lucianodguerra
+- Elian-Ortiz
